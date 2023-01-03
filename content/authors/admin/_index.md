@@ -22,7 +22,7 @@ role: MSc. Robotics, Systems, and Control
 #     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Robotics graduate specialized in Perception
+bio: Software Engineer specialized in Robot Perception
 
 # Interests to show in About widget
 interests:
