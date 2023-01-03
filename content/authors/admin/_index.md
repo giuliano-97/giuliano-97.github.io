@@ -57,5 +57,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a software engineer specialized in Robot Perception. I received a Master's degree in **Robotics, Systems and Control** from [ETH Zurich](https://ethz.ch/en) in 2022. My main interests are object detection and tracking, visual odometry, and dense semantic mapping.
+I am a software engineer specialized in Robot Perception. I received a MSc in **Robotics, Systems and Control** from [ETH Zurich](https://ethz.ch/en) in 2022. My main interests are object detection and tracking, visual odometry, semantic mapping, and active path planning.
 {style="text-align: justify;"}
