@@ -35,19 +35,15 @@ sections:
           date_end: '2022-04-30'
           description: |
             Software engineer in the Matrix Scan team of the Computer Vision Chapter working on AR.
-              * Object detection
-              * Multi-object tracking
-              * AR
         - title: Computer Vision Intern
           company: Scandit
           company_url: https://scandit.com
           date_start: '2021-03-01'
           date_end: '2021-08-30'
           description: |
-            Computer Vision Intern in the Matrix Scan team of the Computer Vision Chapter working:
+            Computer Vision Intern in the Matrix Scan team of the Computer Vision Chapter working on:
               * Object detection
               * Multi-object tracking
-              * AR
         - title: R&D Intern
           company: ABB Research
           company_url: https://abb.com
