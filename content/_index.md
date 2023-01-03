@@ -14,27 +14,47 @@ sections:
     id: projects
     content:
       title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      # default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      # buttons:
-      #   - name: All
-      #     tag: '*'
-      #   - name: Deep Learning
-      #     tag: Deep Learning
-      #   - name: Other
-      #     tag: Demo
+      folders:
+        - project
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      date_format: Jan 2019
+      items:
+        - title: Computer Vision Engineer (Part-time)
+          company: Scandit
+          company_url: https://scandit.com
+          date_start: '2021-10-01'
+          date_end: '2022-04-30'
+          description: |
+            Software engineer in the Matrix Scan team of the Computer Vision Chapter working on AR.
+              * Object detection
+              * Multi-object tracking
+              * AR
+        - title: Computer Vision Intern
+          company: Scandit
+          company_url: https://scandit.com
+          date_start: '2021-03-01'
+          date_end: '2021-08-30'
+          description: |
+            Computer Vision Intern in the Matrix Scan team of the Computer Vision Chapter working:
+              * Object detection
+              * Multi-object tracking
+              * AR
+        - title: R&D Intern
+          company: ABB Research
+          company_url: https://abb.com
+          date_start: '2020-10-15'
+          date_end: '2021-02-28'
+          description:
+            R&D software engineering intern working on containerized deployment of hard-real time applications.
+
+
 ---
